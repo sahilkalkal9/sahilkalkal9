@@ -9,8 +9,8 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Connect with me :-
-<a href=”https://www.linkedin.com/in/sahil810/"><img align=”left” src=”https://raw.githubusercontent.com/sahilkalkal/sahilkalkal/LinkedIN.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+
 
 - 🔭 I’m currently working on Resume Hub
 - 🌱 I’m currently learning react.js
