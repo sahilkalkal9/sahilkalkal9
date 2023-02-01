@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning react.js
 - 📫 How to reach me: sahilkalkal108@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkalkal&layout=compact)](https://github.com/sahilkalkal)
+
 
 
 ![](https://komarev.com/ghpvc/?username=sahilkalkal)
