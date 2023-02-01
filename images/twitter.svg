@@ -29,7 +29,7 @@
     <meta name="optimizely-datafile" content="{&quot;groups&quot;: [], &quot;environmentKey&quot;: &quot;production&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [], &quot;version&quot;: &quot;4&quot;, &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;anonymizeIP&quot;: true, &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}, {&quot;id&quot;: &quot;21656311196&quot;, &quot;key&quot;: &quot;opened_downgrade_dialog&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21354412592&quot;, &quot;key&quot;: &quot;click.dismiss_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21366102546&quot;, &quot;key&quot;: &quot;click.dismiss_zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370252505&quot;, &quot;key&quot;: &quot;account_did_downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370840408&quot;, &quot;key&quot;: &quot;click.cta_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21375451068&quot;, &quot;key&quot;: &quot;click.cta_create_new_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21385390948&quot;, &quot;key&quot;: &quot;click.zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21467712175&quot;, &quot;key&quot;: &quot;click.downgrade_keep&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21484112202&quot;, &quot;key&quot;: &quot;click.downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21495292213&quot;, &quot;key&quot;: &quot;click.downgrade_survey_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21508241468&quot;, &quot;key&quot;: &quot;click.downgrade_survey_submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21512030356&quot;, &quot;key&quot;: &quot;click.downgrade_support&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21539090022&quot;, &quot;key&quot;: &quot;click.downgrade_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21543640644&quot;, &quot;key&quot;: &quot;click_fetch_upstream&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21646510300&quot;, &quot;key&quot;: &quot;click.move_your_work&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21656151116&quot;, &quot;key&quot;: &quot;click.add_branch_protection_rule&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21663860599&quot;, &quot;key&quot;: &quot;click.downgrade_dialog_open&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21687860483&quot;, &quot;key&quot;: &quot;click.learn_about_protected_branches&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21689050333&quot;, &quot;key&quot;: &quot;click.dismiss_protect_this_branch&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21864370109&quot;, &quot;key&quot;: &quot;click.sign_in&quot;}], &quot;revision&quot;: &quot;1367&quot;}" />
 
 
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-eaa64de7399e.js"></script>
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-fb7b21e8d92b.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_smoothscroll-polyfill_dist_smoothscroll_js-node_modules_stacktrace-parse-297da6-aaa32681a0b3.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-3424f91b6daa.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-58d8ed1c5cb7.js"></script>
@@ -48,12 +48,12 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_github_template-parts_lib_-273494-9dca884d6b8e.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_github_quote-select-c15b39-7d4cbe4ffc8c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_updatable-content_ts-be84ec1f2e05.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-f0d967a97d48.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_socket-channel_ts-5da1f39e59d1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_socket-channel_ts-6e881443ec8d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-b81504369c61.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_keyboard-shortcuts-helper_ts-app_assets_modules_github_be-d820ce-0682979ffa29.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_user-content_ts-app_assets_modules_github_blob-anchor_ts--b39cba-0e34333f0071.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-9df1e61e03a4.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-73e4fca4ff00.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-560a5045d652.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-596c6d852b03.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-e6860013c1f3.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_optimizely_optimizely-sdk_dist_optimizely_browser_es_min_js-node_modules-77839b-e6c57f82d6e7.js"></script>
@@ -65,17 +65,17 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/repositories-1742d6251559.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_clipboard-copy-element_dist_index_esm_js-node_modules_github_remo-8e6bec-4a54aa10cc28.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_scroll-anchoring_di-e71893-c446bed4261b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_diffs_blob-lines_ts-app_assets_modules_github_diffs_linkable-line-n-dca161-e4c6be57743b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-d42dbb713264.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_diffs_blob-lines_ts-app_assets_modules_github_diffs_linkable-line-n-0bf59e-96c457a7f332.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-5a3687de85d7.js"></script>
   
 
-  <title>social-icons/Twitter.png at master · sahilkalkal/social-icons</title>
+  <title>social-icons/Twitter.svg at master · sahilkalkal/social-icons</title>
 
 
 
     
 
-  <meta name="request-id" content="FB92:4C4F:1B3B56:359AAA:63DA59E6" data-turbo-transient="true" /><meta name="html-safe-nonce" content="1e785a2b2f5175567ab3f062e80a72c71286933f60f6933d757066711e093cda" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zYWhpbGthbGthbC9zb2NpYWwtaWNvbnMvdHJlZS9tYXN0ZXIvUE5HL0NvbG9yIiwicmVxdWVzdF9pZCI6IkZCOTI6NEM0RjoxQjNCNTY6MzU5QUFBOjYzREE1OUU2IiwidmlzaXRvcl9pZCI6Ijc0NDkwMjI1NDU2NjExNDE4NyIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="812ce4b71f78f50c2db0ffc8bce750b73b625c5a917519ae3ab36a5ee0418949" data-turbo-transient="true" />
+  <meta name="request-id" content="C2E2:680E:92EE3:E2C7D:63DA7B7A" data-turbo-transient="true" /><meta name="html-safe-nonce" content="1e785a2b2f5175567ab3f062e80a72c71286933f60f6933d757066711e093cda" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zYWhpbGthbGthbC9zb2NpYWwtaWNvbnMvdHJlZS9tYXN0ZXIvU1ZHL0NvbG9yIiwicmVxdWVzdF9pZCI6IkMyRTI6NjgwRTo5MkVFMzpFMkM3RDo2M0RBN0I3QSIsInZpc2l0b3JfaWQiOiI3NDQ5MDIyNTQ1NjYxMTQxODciLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="2bc90b20bcbc2cf76d7cfaf6914ab44cc11dcf4a741216fb9f11832de225d728" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:596065826" data-turbo-transient>
@@ -109,16 +109,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Collection of SVG &amp; PNG social media icons. Embeddable Social Icons, Use directly on your websites. - social-icons/Twitter.png at master · sahilkalkal/social-icons">
+      <meta name="description" content="Collection of SVG &amp; PNG social media icons. Embeddable Social Icons, Use directly on your websites. - social-icons/Twitter.svg at master · sahilkalkal/social-icons">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/5fda419a69a8c18e60dec38ab29ebf5e98fd7ca5f3de4c1f9c5e2cbd505aa54e/sahilkalkal/social-icons" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="social-icons/Twitter.png at master · sahilkalkal/social-icons" /><meta name="twitter:description" content="Collection of SVG &amp; PNG social media icons. Embeddable Social Icons, Use directly on your websites. - social-icons/Twitter.png at master · sahilkalkal/social-icons" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/5fda419a69a8c18e60dec38ab29ebf5e98fd7ca5f3de4c1f9c5e2cbd505aa54e/sahilkalkal/social-icons" /><meta property="og:image:alt" content="Collection of SVG &amp; PNG social media icons. Embeddable Social Icons, Use directly on your websites. - social-icons/Twitter.png at master · sahilkalkal/social-icons" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="social-icons/Twitter.png at master · sahilkalkal/social-icons" /><meta property="og:url" content="https://github.com/sahilkalkal/social-icons" /><meta property="og:description" content="Collection of SVG &amp; PNG social media icons. Embeddable Social Icons, Use directly on your websites. - social-icons/Twitter.png at master · sahilkalkal/social-icons" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/5fda419a69a8c18e60dec38ab29ebf5e98fd7ca5f3de4c1f9c5e2cbd505aa54e/sahilkalkal/social-icons" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="social-icons/Twitter.svg at master · sahilkalkal/social-icons" /><meta name="twitter:description" content="Collection of SVG &amp; PNG social media icons. Embeddable Social Icons, Use directly on your websites. - social-icons/Twitter.svg at master · sahilkalkal/social-icons" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/5fda419a69a8c18e60dec38ab29ebf5e98fd7ca5f3de4c1f9c5e2cbd505aa54e/sahilkalkal/social-icons" /><meta property="og:image:alt" content="Collection of SVG &amp; PNG social media icons. Embeddable Social Icons, Use directly on your websites. - social-icons/Twitter.svg at master · sahilkalkal/social-icons" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="social-icons/Twitter.svg at master · sahilkalkal/social-icons" /><meta property="og:url" content="https://github.com/sahilkalkal/social-icons" /><meta property="og:description" content="Collection of SVG &amp; PNG social media icons. Embeddable Social Icons, Use directly on your websites. - social-icons/Twitter.svg at master · sahilkalkal/social-icons" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/52092931/ws?session=eyJ2IjoiVjMiLCJ1Ijo1MjA5MjkzMSwicyI6MTAzNjU1MjczNywiYyI6MjU5NDQ4NDc4MSwidCI6MTY3NTI1NDI0Nn0=--43fa58fb8310881f90cecd313de4991227bc7d2e401b0e188a3a0805b8d389f5" data-refresh-url="/_alive" data-session-id="9cd5adaf7da1ddd683fd1514f9cc4a6921f0dd3bcc2f17c043cc2f871a59b3ed">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/52092931/ws?session=eyJ2IjoiVjMiLCJ1Ijo1MjA5MjkzMSwicyI6MTAzNjU1MjczNywiYyI6Mjk5MjI1MjQxNCwidCI6MTY3NTI2Mjg1N30=--233728bafe50b7b8159b19903b172e0e652168606314962a07931016548f3585" data-refresh-url="/_alive" data-session-id="9cd5adaf7da1ddd683fd1514f9cc4a6921f0dd3bcc2f17c043cc2f871a59b3ed">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-1fbc11759878.js">
 
 
@@ -133,10 +133,10 @@
     <meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS">
 
 
-  <meta http-equiv="x-pjax-version" content="dbf61add04a8c9cc04711555f16d95ed260896a7496cfe23f7695895f6d2093b" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="bdfcdd8b125bd733331d6c24c090d7f3979870677f4c58eba22e183456a69590" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="40aca5a152a13213a876f7628c466cd600db12fb858cdddccc3f1cc387eb7dad" data-turbo-track="reload">
   <meta http-equiv="x-pjax-css-version" content="d31fda3087d9ccd883c86b2919d11b20d4cd6d05a5d1805de09c8fb9f2fdeec6" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="02e59a6bcd6471c49b85bb76e407a47b79eb78e579dfee1e4933cc936b9f7aa3" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="d22395d036abc359ad2f9f3733a2b1f63a0e29ec1d3788bca1d3293f1ba3fc5f" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -148,7 +148,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/sahilkalkal/social-icons/blob/master/PNG/Color/Twitter.png" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -241,7 +241,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="TmmK3wxufWV0en_pvQ79fnn5q0hJOYzU4orwwW4SDWPDB56eCQijsYOxX_PwZQvhoijB-Kvs6BfqaWRPCzerUA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="wb-5FJSSwLPEBEjM9j4MIwDM_0jsvDUxXq-Z-i2JL1VM0a1VkfQeZzPPaNa7Vfq82x2V-A5pUfJWTA10SKyJZg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -440,7 +440,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;sahilkalkal&quot;,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/PNG/Color/Twitter.png&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="7ac60b891a73eaa36145c8325187bbef15b86c5192116611a740649383ce1b61" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;sahilkalkal&quot;,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="24ba55f71777e4bb5661c8e07e9da16a62e983f4e593890c044ec78c4d3fdb8b" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -448,7 +448,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/52092931?s=40&amp;v=4" width="20" height="20" alt="@sahilkalkal" />
       sahilkalkal
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AUizCmw929_wZaCADRTig0HSzFUkUgtfB9V4FQW5ZNrhGQK8L184K2tJ2MyELjBgKA-bUehoW5wBRxS124Tg2A" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DuWQDld7FyQocdNwscG9KQClLZSmdgnepnWaEF0hmunutCG4FBn00LNdqzw4-2_KaXh6kGpMWR2g5_awgxwe6w" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -483,7 +483,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTIwOTI5MzEiLCJ0IjoxNjc1MjU0MjQ2fQ==--cc48b7365a2840bebc2ab5d9fecd8f555de301bb7ea12774a8a747eea150fdd9" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTIwOTI5MzEiLCJ0IjoxNjc1MjYyODU3fQ==--a2d6f7263ccb4d980a9ead5d5380a0f02354ab933b9efc2a947e09ccca4526e0" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -641,7 +641,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/sahilkalkal/social-icons/blob/master/PNG/Color/Twitter.png
+      return-to=/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg
       user-id="52092931"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -798,7 +798,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-e3ac5839-7369-461d-9224-8dbc4f8d4932" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-33d2c0d2-9c5e-4fae-92e7-18ef4001fb1c" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1600,7 +1600,7 @@
 
       <li>
   <div class="float-left" >
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/sahilkalkal/social-icons/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YVPA7wWQHupdFHbOTHDf7HauP4lsL43U9fuDZGFKq0uvdE6eTsZeRHcweUcyds9VXPbX5xSqim3-E6IyXNcy0w" autocomplete="off" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/sahilkalkal/social-icons/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qwqunpdD2T1XmPW2m7fTj9FpaYSlwiZG2G2erAGJ6atlLSDv3BWZk328-j_lscM2-zGB6t1HIf_Thb_6PBRwMw" autocomplete="off" />
         <button title="Pin this repository to your profile" type="submit" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
     <path fill-rule="evenodd" d="M4.456.734a1.75 1.75 0 012.826.504l.613 1.327a3.081 3.081 0 002.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.75.75 0 11-1.061 1.06L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.081 3.081 0 00-1.707-2.084l-1.327-.613a1.75 1.75 0 01-.504-2.826L4.456.734zM5.92 1.866a.25.25 0 00-.404-.072L1.794 5.516a.25.25 0 00.072.404l1.328.613A4.582 4.582 0 015.73 9.63l.584 2.454a.25.25 0 00.42.12l5.47-5.47a.25.25 0 00-.12-.42L9.63 5.73a4.581 4.581 0 01-3.098-2.537L5.92 1.866z"></path>
 </svg>Pin
@@ -1619,7 +1619,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/PNG/Color/Twitter.png&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="aa673dc93b67364ee191eb4b3ceac08375b2b4b5ef263811a3ed9aea97ea945e" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="0bc7b627a213d612c934c4695835d6211123b859a476ae8bfa517079e7e6aa63" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1671,7 +1671,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SiT_NE7fTRe6VRtKmyVGz_Wqg0sGn4wsVwHBEZwLhoZkBd3d2HprZ2RLxsxngtgzDMIXRoSdPPm8p9LM1ARAkQ" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ABPVSCtT3dNTVo5H_7QG1j1CtQTJYRcttdHaTI4bHS8uMvehvfb7o41IU8EDE5gqxCohCUtjp_hed8mRxhTbOA" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="596065826">
 
@@ -1789,7 +1789,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Cnn-3eAT0QvspyaH5rRPaQiiVfF5wqq_DMBI_wIvlYYkWNw0drb3ezK5-wEaE9GV8crB_PvAGmrnZlsiSiBTkQ" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Z-xNfQs3uZ460_aWkH1rqCs8sOcdja8efrRE7KQNJr9JzW-UnZKf7uTNKxBs2vVU0lQk6p-PH8uVElcx7ALgqA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="596065826">
 
@@ -1953,7 +1953,7 @@
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
         <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="48" data-view-component="true" class="Counter">48</span>
-</button>    <tool-tip id="tooltip-68efe435-d2e0-45d4-ac9c-7babab7f01a8" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Cannot fork because you own this repository and are not a member of any organizations.</tool-tip>
+</button>    <tool-tip id="tooltip-6a3d9d72-c69f-4737-bb22-445a215a7261" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Cannot fork because you own this repository and are not a member of any organizations.</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-596065826" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1968,13 +1968,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-54f430">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-12f8ed">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-54f430"
+        id="filter-menu-12f8ed"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2016,10 +2016,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/sahilkalkal/social-icons/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XCrsBjABHYZ7QYCg-rZzh9GD868MGVvKYUhoK2t4_RPER9p4luuO_xa6KbtvRqKGKDDohIGx9uNAecLnZHv-5A" autocomplete="off" />
-          <input type="hidden" value="jSXE1BPWn-FA9lHFktM-3riRxG4RTaKLPEXqBo8D3HwVSPKqtTwMmC0N-N4HI-_fQSLfRZzlD6IddEDKgADfiw" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/sahilkalkal/social-icons/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CbR2hue0Alrfwxj5BrO3x2zmG8-qpaQWeWqj2yUPzbGR2UD4QV6RI7I4seKTQ2bGlVUA5CcNCT9YWwkXKgzORg" autocomplete="off" />
+          <input type="hidden" value="EDexjXdzEs-f_iG3vTwVpsxw4d7SLZ21XOyM2EifqOqIWofz0ZmBtvIFiKwozMSnNcP69V-FMJx93SYUR5yrHQ" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/PNG/Color/Twitter.png&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="67cbe8fe0825d36fab426acd21aa78118c04130b8d70cac26cce7245e08a8622" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="f1958a27379aaca308d80a1ed456774e865c7c409f6cc58469d6cfeae2c3f287" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2037,13 +2037,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4d24ba">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3cb882">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-4d24ba"
+        id="filter-menu-3cb882"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2064,9 +2064,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/sahilkalkal/social-icons/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="en01PdVn_MWbecEyBMIOihEePMs-v3HJ3HmHuI5yuabxlEiarfBiyXdxnUbUoRDj8lVkn4R-ZeUshH0bzVil9w" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/sahilkalkal/social-icons/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LNXwoqwvwaLZFUoNlTIryywzX9teNdH6Ugv48KoQ0J2nPI0F1LhfrjUdFnlFUTWiz3gHj-T0xdai9gJT6TrMzA" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/PNG/Color/Twitter.png&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="2674dc8e945ce4ebc3af245ffe6f32f58680a91990113406167697cd9b2206e4" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="ac5f5294232f71c599e7eaec017d80fb83b5e76a119034dc8c3654bdf5e7e44c" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2084,13 +2084,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4d24ba">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3cb882">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-4d24ba"
+        id="filter-menu-3cb882"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2293,7 +2293,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sahilkalkal/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Twitter.png">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sahilkalkal/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2301,7 +2301,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/PNG/Color/Twitter.png&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="ef9a75fc8499f2a2ffab5432c4f820ec2bd201dead4a764a1405ea3b64cee95d">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="e9248d4ce3252b0c28aaeb598d230429ac8c645a23d0c648be387afdfdc7bb63">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2369,10 +2369,10 @@
     <create-repo-from-selector
       check-tag-name-exists-path="/sahilkalkal/social-icons/branches/check_tag_name_exists"
     >
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/sahilkalkal/social-icons/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jVC0pQ57vO_DxS9dmHrdtJA3vlgUnQI1vjtGgsR-ha7jygqHdQsnTF4gQcM2QOJPJkfU4jW-uPeHLphru2_SBQ" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/sahilkalkal/social-icons/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LzZB5IDSOXhmmev8l09xGqpH2bek2cpkEkv_XjaYQpNBrP_G-6Ki2_t8hWI5dU7hHDezDYX6cKYrXiG3SYkVOA" />
         <input data-target="create-repo-from-selector.refName" type="hidden" name="name" value="{{ refName }}">
         <input type="hidden" name="branch"  value="master">
-        <input type="hidden" name="path_binary" value="UE5HL0NvbG9yL1R3aXR0ZXIucG5n">
+        <input type="hidden" name="path_binary" value="U1ZHL0NvbG9yL1R3aXR0ZXIuc3Zn">
 
         <button
           class="SelectMenu-item wb-break-word"
@@ -2380,14 +2380,14 @@
           role="menuitem"
           data-index="{{ index }}"
           data-action="click:create-repo-from-selector#createBranch"
-          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:596065826,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/PNG/Color/Twitter.png&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="c4249f6e06b84c24f503aab86be786488be6c81777f21ba4282bb5c56cd5c317">
+          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:596065826,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="b778a7bc4cfc66279bba78a0beacb9c5a7710eb75b01f47283c314b13ec00f1f">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
           <div>
             <span class="text-bold">Create branch: {{ refName }}</span>
             <span class="color-fg-muted">from ‘master’</span>
-            <input type="hidden" value="ufcxFMqhHzbhGgToC-U1LeCoOvy-kh3tTcruBNJzW6yCn5oj00oVQ0xn6XgjsOjIJN6CUFkTzfiF5IPurc_aBg" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
+            <input type="hidden" value="EmzR3IpuJ6_Uv8yZxmEFOY295IrK7fwqW3n69uzihfIpBHrrk4Ut2nnCIQnuNNjcSctcJi1sLD-TV5cck14EWA" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
           </div>
         </button>
 </form>    </create-repo-from-selector>
@@ -2406,7 +2406,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/sahilkalkal/social-icons/blob/{{ urlEncodedRefName }}/PNG/Color/Twitter.png" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/sahilkalkal/social-icons/blob/{{ urlEncodedRefName }}/SVG/Color/Twitter.svg" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2448,7 +2448,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/sahilkalkal/social-icons/blob/{{ urlEncodedRefName }}/PNG/Color/Twitter.png" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/sahilkalkal/social-icons/blob/{{ urlEncodedRefName }}/SVG/Color/Twitter.svg" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2509,7 +2509,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sahilkalkal/social-icons"><span>social-icons</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sahilkalkal/social-icons/tree/master/PNG"><span>PNG</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sahilkalkal/social-icons/tree/master/PNG/Color"><span>Color</span></a></span><span class="separator">/</span><strong class="final-path">Twitter.png</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sahilkalkal/social-icons"><span>social-icons</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sahilkalkal/social-icons/tree/master/SVG"><span>SVG</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/sahilkalkal/social-icons/tree/master/SVG/Color"><span>Color</span></a></span><span class="separator">/</span><strong class="final-path">Twitter.svg</strong>
   </h2>
     <a href="/sahilkalkal/social-icons/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2520,7 +2520,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/PNG/Color/Twitter.png&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="163e6e5c4b0c87dccecd6521df9e6e5fd62414d6233dff9e746daac081b1e179" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/sahilkalkal/social-icons/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="9afa1f4bc66bbf58453b5cc4c721471a2d0eefe539499da44143b4df19566394" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/sahilkalkal/social-icons/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2532,13 +2532,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="PNG/Color/Twitter.png" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="SVG/Color/Twitter.svg" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sahilkalkal/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Twitter.png" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/sahilkalkal/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2570,7 +2570,7 @@
     <include-fragment src="/sahilkalkal/social-icons/spoofed_commit_check/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/sahilkalkal/social-icons/contributors/master/PNG/Color/Twitter.png" class="commit-loader">
+  <include-fragment src="/sahilkalkal/social-icons/contributors/master/SVG/Color/Twitter.svg" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2604,18 +2604,88 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-    5.13 KB
+      4 lines (4 sloc)
+      <span class="file-info-divider"></span>
+    1.53 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-      
+        <div class="BtnGroup">
+      <a href="/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg?short_path=17bf45d" data-permalink-href="/sahilkalkal/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg?short_path=17bf45d" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+</a>      <a href="/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg" data-permalink-href="/sahilkalkal/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
+</svg>
+</a>  </div>
+
 
     <div class="BtnGroup">
-        <a data-permalink-href="/sahilkalkal/social-icons/raw/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Twitter.png" href="/sahilkalkal/social-icons/raw/master/PNG/Color/Twitter.png" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Download
+        <a data-permalink-href="/sahilkalkal/social-icons/raw/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" href="/sahilkalkal/social-icons/raw/master/SVG/Color/Twitter.svg" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/sahilkalkal/social-icons/blame/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" href="/sahilkalkal/social-icons/blame/master/SVG/Color/Twitter.svg" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/sahilkalkal/social-icons/delete/master/PNG/Color/Twitter.png" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="B_fuuzcZgUtQMDd-sI3Nm6ojOwuN_TIRWvzyRkAPhRqiiNVEMhqOCG_gaJHOXfbBWJ1Gb4UgTG3aKIHlDjebMw" />
+        
+<div class="ml-1" >
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/sahilkalkal/social-icons/edit/master/SVG/Color/Twitter.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PTnTingGhcTnu7UkyHi4ZS-gvQUUi2Ka8dY37FO3-3tBb9F3ET96JtL6QgUjxqqcsuKV_kcTK61C4vJquDcpBA" autocomplete="off" />
+      <button title="Edit this file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+    <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
+</svg>
+</button></form>
+  <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:596065826,&quot;actor_id&quot;:52092931,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+</summary>    <div class="SelectMenu right-0">
+      <div class="SelectMenu-modal width-full">
+        <div class="SelectMenu-list SelectMenu-list--borderless py-2">
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/sahilkalkal/social-icons/edit/master/SVG/Color/Twitter.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Il18XAvTFvPNdBu0aHzGWi6u84DK97qf2r8oTfM9eOReC36hYurpEfg17JWDwtSjs-zbe5lv86hpi-3LGL2qmw" autocomplete="off" />
+              <button title="Edit this file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
+              <div class="color-fg-muted">E</div>
+</button></form>
+            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:596065826,&quot;actor_id&quot;:52092931,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+              <div class="mr-5 no-wrap">Open in github.dev</div>
+              <div class="color-fg-muted">.</div>
+</a>
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/sahilkalkal/social-icons?branch=master&amp;filepath=SVG%2FColor%2FTwitter.svg" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+              Open in GitHub Desktop
+</a>        </div>
+      </div>
+    </div>
+  </details>
+</div>
+
+
+        
+<div >
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/sahilkalkal/social-icons/raw/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" data-action="click:remote-clipboard-copy#remoteCopy">
+  
+
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="15bb04afadb29bc610f9b2e7124c1ed17e4d4082b9465fe1008c63ddaeaf5465" aria-label="Copy raw contents">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
+    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
+</svg>
+</span></span>
+  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">      <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+</span>
+  <span data-target="remote-clipboard-copy.success" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Copied!">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+      </span>
+</span>
+  <span data-target="remote-clipboard-copy.error" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Something went wrong. Try again.">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+      </span>
+</span>
+</remote-clipboard-copy></div>
+
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/sahilkalkal/social-icons/delete/master/SVG/Color/Twitter.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FkvKzEqR2pELL70jha6AJmlhNLqBCr0ru6qwUmF3fcBeE93v8_oGzxu7ydlIF2BwSi1oAkSIyfx2yhkeCqPuMQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2643,19 +2713,57 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/sahilkalkal/social-icons?branch=master&amp;filepath=PNG%2FColor%2FTwitter.png">
+                   href="x-github-client://openRepo/https://github.com/sahilkalkal/social-icons?branch=master&amp;filepath=SVG%2FColor%2FTwitter.svg">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/sahilkalkal/social-icons/raw/master/PNG/Color/Twitter.png">
-              Download
+            <a class="dropdown-item" href="/sahilkalkal/social-icons/raw/master/SVG/Color/Twitter.svg">
+              View raw
             </a>
           </li>
-
             <li>
-              <a class="dropdown-item menu-item-danger" href="/sahilkalkal/social-icons/delete/master/PNG/Color/Twitter.png">Delete file</a>
+              <remote-clipboard-copy class="dropdown-item" data-src="/sahilkalkal/social-icons/raw/master/SVG/Color/Twitter.svg" data-action="click:remote-clipboard-copy#remoteCopy">
+  
+
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:596065826,&quot;originating_url&quot;:&quot;https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg&quot;,&quot;user_id&quot;:52092931}}" data-hydro-click-hmac="15bb04afadb29bc610f9b2e7124c1ed17e4d4082b9465fe1008c63ddaeaf5465">
+                    Copy raw contents
+</span></span>
+  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
+                  <span class="d-inline-block position-relative" style="top: 3px">
+                    <svg aria-label="fetching contents…" style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+                  </span>
+</span>
+  <span data-target="remote-clipboard-copy.success" hidden="hidden">                  Copy raw contents
+                  <svg aria-label="Copied!" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+</span>
+  <span data-target="remote-clipboard-copy.error" hidden="hidden">                  Copy raw contents
+                  <svg aria-label="Something went wrong. Try again." role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span>
+</remote-clipboard-copy>            </li>
+            <li>
+              <a class="dropdown-item" href="/sahilkalkal/social-icons/blame/master/SVG/Color/Twitter.svg">
+                View blame
+              </a>
             </li>
+
+              <li class="dropdown-divider" role="none"></li>
+              <li>
+                <a class="dropdown-item" href="/sahilkalkal/social-icons/edit/master/SVG/Color/Twitter.svg">Edit file</a>
+              </li>
+                <li>
+                  <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:596065826,&quot;actor_id&quot;:52092931,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
+                </li>
+              <li>
+                <a class="dropdown-item menu-item-danger" href="/sahilkalkal/social-icons/delete/master/SVG/Color/Twitter.svg">Delete file</a>
+              </li>
         </ul>
       </details>
     </div>
@@ -2663,11 +2771,32 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-svg  gist-border-0">
 
-        <div class="text-center p-3" data-hpc>
-            <span class="border-wrap"><img src="/sahilkalkal/social-icons/blob/master/PNG/Color/Twitter.png?raw=true" alt="Twitter.png"></span>
-        </div>
+          <div class="render-wrapper ">
+    <div class="render-container is-render-pending js-render-target "
+      data-identity="5443511f-49c5-4ed7-a014-1549382fec88"
+      data-host="https://viewscreen.githubusercontent.com"
+      data-type="svg">
+      <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="64" height="64" viewBox="0 0 16 16" fill="none" data-view-component="true" class="octospinner mx-auto anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg">Reload?</a></div>
+      <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
+      <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
+      <iframe
+        class="render-viewer "
+        src="https://viewscreen.githubusercontent.com/view/svg?browser=chrome&amp;color_mode=dark&amp;commit=9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920&amp;device=unknown_device&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736168696c6b616c6b616c2f736f6369616c2d69636f6e732f396439333965316335623765613461323461633339633365343633313937306330616131623932302f5356472f436f6c6f722f547769747465722e737667&amp;logged_in=true&amp;nwo=sahilkalkal%2Fsocial-icons&amp;path=SVG%2FColor%2FTwitter.svg&amp;platform=windows&amp;repository_id=596065826&amp;repository_type=Repository&amp;version=109#5443511f-49c5-4ed7-a014-1549382fec88"
+        sandbox="allow-scripts allow-same-origin allow-top-navigation"
+        title="File display"
+        name="5443511f-49c5-4ed7-a014-1549382fec88"
+      >
+          Viewer requires iframe.
+      </iframe>
+    </div>
+  </div>
+ 
     </div>
 
     </div>
