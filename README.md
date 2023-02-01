@@ -1,6 +1,6 @@
-## 👋 Hi, I am Sahil, a Front End Web Developer
+#👋 Hi, I am Sahil, a Front End Web Developer
 
-### 🚀 Skills 
+## 🚀 Skills 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -12,11 +12,11 @@
 
 
 
- ### 🔭 I’m currently working on
+ ## 🔭 I’m currently working on
  - Resume Hub(100% free resume builder)
  - Stray farm(a non-profit organisation)
  - Instagram Clone(a responsive clone of instagram.com)
-### 🌱 I’m currently learning
+## 🌱 I’m currently learning
 - React.js
 - Firebase
 - Responsive Designs
