@@ -20,7 +20,8 @@
 - React.js
 - Firebase
 - Responsive Designs
-- 📫 How to reach me: sahilkalkal108@gmail.com
+
+ #### 📫 How to reach me: sahilkalkal108@gmail.com
 
 
 
