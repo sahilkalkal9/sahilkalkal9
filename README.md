@@ -1,6 +1,7 @@
 ### Hi, I am Sahil👋
 
-![LinkedIN](https://user-images.githubusercontent.com/52092931/216034964-f75fbe3d-cdc4-429f-8eb8-e4523541e5df.svg)[linkedin]
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://user-images.githubusercontent.com/52092931/216034964-f75fbe3d-cdc4-429f-8eb8-e4523541e5df.svg" />][linkedin]
 
 ### Skills 🚀
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
