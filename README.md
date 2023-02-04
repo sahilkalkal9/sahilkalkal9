@@ -19,9 +19,9 @@
 
 
  ### 🔭 I’m currently working on
- ##### - Resume Hub(100% free resume builder)
- ##### - Stray farm(a non-profit organisation)
- ##### - Instagram Clone(a responsive clone of instagram.com)
+ - Resume Hub(100% free resume builder)
+ - Stray farm(a non-profit organisation)
+ - Instagram Clone(a responsive clone of instagram.com)
 ### 🌱 I’m currently learning
 - React.js
 - Firebase
