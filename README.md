@@ -13,9 +13,9 @@
 
 
 
-[<img height="40px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Instagram.svg"></img>](https://www.instagram.com/sahil.kalkal_)
-[<img height="40px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/LinkedIN.svg"></img>](https://www.linkedin.com/in/sahil810/)
-[<img height="40px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg"></img>](https://twitter.com/sahilkalkal_)
+[<img height="30px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Instagram.svg"></img>](https://www.instagram.com/sahil.kalkal_)
+[<img height="30px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/LinkedIN.svg"></img>](https://www.linkedin.com/in/sahil810/)
+[<img height="30px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg"></img>](https://twitter.com/sahilkalkal_)
 
 
  ### 🔭 I’m currently working on
