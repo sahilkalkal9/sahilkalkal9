@@ -15,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sahil.kalkal_)
 
 
-<img height="5px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Instagram.svg"></img>
+<img height="50px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Instagram.svg"></img>
 
 
  ### 🔭 I’m currently working on
