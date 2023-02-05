@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" color="black">
   <a href="https://sahilkalkal.com">
       Sahil Kalkal
     </a>
