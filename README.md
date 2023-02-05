@@ -1,4 +1,4 @@
-<p align="center" font-family="Fira">
+<p align="center" style="font-family:verdana">
   Sahil Kalkal
 </p>
 
