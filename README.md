@@ -1,10 +1,10 @@
 
 <p>
-      <h2 align="center">
+      <h1 align="center">
       <a href="https://sahilkalkal.com">
       Sahil Kalkal
       </a>
-            </h2>
+            </h1>
     
   </p>
 
