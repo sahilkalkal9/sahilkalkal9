@@ -1,6 +1,6 @@
 <p align="center" color="black">
   <a href="https://sahilkalkal.com">
-    <h1>Sahil Kalkal</h1>
+    <h1 align="center">Sahil Kalkal</h1>
     </a>
 </p>
 
