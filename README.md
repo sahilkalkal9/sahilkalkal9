@@ -12,7 +12,7 @@
 </p>
 
 <!-- Social icons section -->
-<a align="center">
+
   [<img height="33px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Instagram.svg"></img>](https://www.instagram.com/sahil.kalkal_)
    &#8287;&#8287;&#8287;&#8287;
 [<img height="33px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/LinkedIN.svg"></img>](https://www.linkedin.com/in/sahil810/)
