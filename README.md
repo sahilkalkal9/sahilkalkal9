@@ -1,8 +1,11 @@
-<p align="center" color="black">
-  <a href="https://sahilkalkal.com">
-    <h1 align="center">Sahil Kalkal</h1>
-    </a>
-</p>
+
+  
+    <h2 align="center">
+      <a href="https://sahilkalkal.com">
+      Sahil Kalkal
+      </a>  
+    </h2>
+
 
 
 <p align="center">
