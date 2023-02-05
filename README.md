@@ -1,6 +1,4 @@
-<p align="center" style="font-family:fira">
-  Sahil Kalkal
-</p>
+## Hi, I am Sahil Kalkal
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
