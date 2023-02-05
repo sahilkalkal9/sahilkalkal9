@@ -29,9 +29,11 @@
 
  #### 📫 How to reach me: sahilkalkal108@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sahilkalkal)](https://git.io/streak-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilkalkal&show_icons=true&theme=transparent)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sahilkalkal)](https://git.io/streak-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=sahilkalkal)
