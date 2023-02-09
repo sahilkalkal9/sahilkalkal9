@@ -57,7 +57,7 @@
 
  ### 🔭 I’m currently working on
  - [Resume Hub](https://sahilkalkal.github.io/resume-hub)
- - [Stray farm](https://sahilkalkal.github.io/strayfarm)
+ - [Stray farm](https://strayfarm.me)
  
 ### 🌱 I’m currently learning
 - React.js
