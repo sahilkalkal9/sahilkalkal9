@@ -32,7 +32,7 @@
 &#8287;&#8287;&#8287;&#8287;
  
 </p>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8IH63I)
+![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8IH63I)
 
 
 
