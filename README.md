@@ -30,10 +30,12 @@
 <img height="33px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg"></img>
 </a>
 &#8287;&#8287;&#8287;&#8287;
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8IH63I)
+
  
 </p>
 
-<p>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8IH63I)</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8IH63I)
 
 
 
