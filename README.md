@@ -30,10 +30,9 @@
 <img height="33px" src="https://github.com/sahilkalkal/social-icons/blob/master/SVG/Color/Twitter.svg"></img>
 </a>
 &#8287;&#8287;&#8287;&#8287;
- <a href="https://ko-fi.com/sahilkalkal">
-<img height="33px" src="https://github.com/sahilkalkal/sahilkalkal/blob/main/images/kofi.png"></img>
-</a>
+ 
 </p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V8IH63I)
 
 
 
