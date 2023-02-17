@@ -61,8 +61,7 @@
  
 ### 🌱 I’m currently learning
 - React.js
-- Firebase
-- Responsive Designs
+
 
  #### 📫 How to reach me: sahilkalkal108@gmail.com
 
