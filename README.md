@@ -65,7 +65,7 @@
 
  #### 📫 How to reach me: sahilkalkal108@gmail.com
 
-
+[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilkalkal)](https://github.com/sahilkalkal/github-readme-stats)
 
 
 
