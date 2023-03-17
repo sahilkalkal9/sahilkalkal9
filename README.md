@@ -64,7 +64,7 @@
 - React.js
 
 
- #### 📫 How to reach me: sahilkalkal108@gmail.com
+ #### 📫 Reach me: sahilkalkal108@gmail.com
 
 
 
