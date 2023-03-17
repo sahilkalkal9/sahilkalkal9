@@ -60,6 +60,7 @@
  
  
 ### 🌱 I’m currently learning
+- Figma
 - React.js
 
 
