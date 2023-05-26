@@ -60,8 +60,8 @@
  
  
 ### 🌱 I’m currently learning
-- Figma
 - React.js
+- Firebase
 
 
  #### 📫 Reach me: sahilkalkal108@gmail.com
