@@ -64,7 +64,7 @@
 - MySQL
 
 
- #### 📫 Reach me: sahilkalkal108@gmail.com
+ 
 <br/>
 
 
