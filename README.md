@@ -61,7 +61,7 @@
  
 ### 🌱 I’m currently learning
 - React.js
-- Firebase
+- MySQL
 
 
  #### 📫 Reach me: sahilkalkal108@gmail.com
