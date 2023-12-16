@@ -1,6 +1,6 @@
-<p>
+<h1 align = "center">
       Sahil Kalkal
-</p>
+</h1>
     
 
 
