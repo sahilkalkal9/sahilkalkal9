@@ -58,7 +58,8 @@
  
  
 ### 🌱 I’m currently learning
-
+- React.js
+- MySQL
 
 #### 📫 Reach me: sahilkalkal108@gmail.com
  
