@@ -55,7 +55,9 @@
 
 <!--  ### 🔭 I’m currently working on -->
 <!--  - [Resume Hub](https://sahilkalkal.github.io/resume-hub) -->
- 
+  ### 🌱 I’m currently learning
+- React.js
+- MySQL
 
 
 
